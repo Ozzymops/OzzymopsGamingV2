@@ -1,9 +1,11 @@
 # Auto Attack Chain
 Icons showing progress of auto attack chain: middle of screen, above Health.
+
 Graphic: circle with layers, starting from the outer layer and moving inwards.
 
 # 'Special' Attack
 Icon showing availability of Stealth Attack, Ambush, or Unleashed Ambush: replaces Auto Attack Chain graphic.
+
 Graphic: red/purple/green circle.
 
 # Profession Mechanics
@@ -13,6 +15,7 @@ Icon showing status of Illuminated: above Health.
 
 ### WILLBENDER
 Icons showing status of active Willbender Flames from Rushing Justice, Flowing Resolve, and Crashing Courage: above Virtues.
+
 Bars showing duration of active Willbender Flames: below icons above.
 
 ### LUMINARY
@@ -41,16 +44,20 @@ Icons showing stacks of Positive Flow Rate (max. 10): arrows in Flow.
 ## Engineer
 ### SPEAR
 Icon showing status of Focusing: above Health.
+
 Icon showing stacks of Lightning Rod Charges (max. 12): above Health.
 
 ## Ranger
 ### MACE
 Icons showing stacks of Nature's Strength: above Pet.
+
 Bar showing duration of Nature's Might: above Pet.
+
 Bar showing duration of Tapped Out: above Pet.
 
 ### UNTAMED
 Icon showing status of Unleashed Power: above Health.
+
 Icons showing status of Unleashed Ranger, Unleashed Pet: above Pet.
 
 ### GALESHOT
